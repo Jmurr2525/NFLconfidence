@@ -1,0 +1,2 @@
+# NFLconfidence
+NFL prediction confidence

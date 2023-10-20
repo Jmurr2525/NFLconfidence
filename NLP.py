@@ -1,7 +1,7 @@
 import csv
 from google.cloud import language_v1
 
-# ... [Your web scraping code here] ...
+# .... [Your web scraping code here] ...
 
 def analyze_text(text):
     client = language_v1.LanguageServiceClient()
